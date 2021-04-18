@@ -1,5 +1,5 @@
 # sudoku_solver
-This is a  website that solves 12*12 sudoku using backtracking.
+This is a  web app that solves 12*12 sudoku using backtracking.
 
 Backtracking is done in javascript.
 
