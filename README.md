@@ -12,7 +12,7 @@ Click on solve bit to automatically solve the sudoku board
 
 ## installation
 * After cloning, run ``` npm install ```
-* Finally run ```node app.js``` 
+* Finally run ```node app.js```  </br>
 Thats is all you need to do :grinning:
 
 You can see the website [here](https://sudoku-solver-backtracking.herokuapp.com/)
