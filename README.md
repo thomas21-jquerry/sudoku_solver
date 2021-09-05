@@ -15,4 +15,4 @@ Click on solve bit to automatically solve the sudoku board
 * Finally run ```node app.js``` 
 Thats is all you need to do :grinning:
 
-You can see the website at [here](https://sudoku-solver-backtracking.herokuapp.com/)
+You can see the website [here](https://sudoku-solver-backtracking.herokuapp.com/)
